@@ -1,1 +1,3 @@
-Hello from conflict branch B!
+hello from both conflict branches!
+
+
